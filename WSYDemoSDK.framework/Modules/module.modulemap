@@ -1,0 +1,6 @@
+framework module WSYDemoSDK {
+  umbrella header "WSYDemoSDK.h"
+
+  export *
+  module * { export * }
+}
